@@ -65,7 +65,3 @@ Your final product will be assessed on the following metrics:
   - Don't be afraid to manipulate your data and play with settings in Tableau. Tableau is meant to be explored. We haven't covered everything that you’ll need—so keep an eye out for new tricks!
   - Treat this as a serious endeavour! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst.
 
-
-""
-
-If you would also like to save your workbook as a .twbx file, from your Tableau Public workbook page, click the “Download” button, which looks like a rectangle with an arrow in the centre pointing down. Within the menu that pops up, choose “Tableau Workbook.”
